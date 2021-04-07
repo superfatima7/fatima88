@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+/*header*/
+
+.header{
+	background: #AED9E0;
+	height:396px;
+	width: 1080px;
+}
+
+#title{
+	font-family : ae_Sindibad;
+    font-size : 90px;
+    color : #652C8F;
+    text-align: center;
+	
+	
+}
+
+/*body*/
+
+.maincontent{
+	height: 1359px;
+    width: 1080px;
+	background: url("image/من نحن.png");
+    background-image: url(image/background.png);
+    background-color: #FFFFFF;
+    text-align: center;
+}	
+
+.About-us{
+    font-family: ae_Sindibad;
+	font-size: 65px;
+    color: #652C8F;
+    align: center;
+    text-align: center;
+    margin-top: -963px;
+}
+
+.about{
+	 font-family: ae_Sindibad;
+	 font-size: 45px;
+     color: #652C8F;
+     align: center;
+     text-align: center;
+	
+	
+}
+	/*swip image*/
+
+	/*footer*/
+#footer{
+    height: 197px;
+    width: 1080px;
+    background-color: #D1B25C;
+    background-image: url(image/background.png);
+	align-content: center;
+}
+#text{
+    font-family : ae_Sindibad;
+    font-size : 50px;
+    color : #652C8F;
+    align: center;
+    text-align: center;   
+}
+.center{
+	text-align: center;
+	image-align: center;
+	
+	
+}
